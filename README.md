@@ -72,16 +72,19 @@ We include three sample workflows to help users get started.
 
 ## Citation
 
-If you use Splitpea, please cite:
+If you use Splitpea, please cite our [paper](https://doi.org/10.1093/bioinformatics/btag154):
 
 ```bibtex
-@inproceedings{dannenfelser2023splitpea,
-  title={Splitpea: quantifying protein interaction network rewiring changes due to alternative splicing in cancer},
-  author={Dannenfelser, Ruth and Yao, Vicky},
-  booktitle={Pacific Symposium on Biocomputing 2024},
-  pages={579--593},
-  year={2023},
-  organization={World Scientific}
+@article{zhong2026splitpea,
+  author = {Zhong, Jeffrey and Cantu, Alyssa and Dannenfelser, Ruth and Yao, Vicky},
+  title = {Splitpea: a Python package for protein-protein interaction network rewiring analysis due to alternative splicing},
+  journal = {Bioinformatics},
+  pages = {btag154},
+  year = {2026},
+  month = {04},
+  issn = {1367-4811},
+  doi = {10.1093/bioinformatics/btag154},
+  url = {https://doi.org/10.1093/bioinformatics/btag154},
 }
 ```
 
